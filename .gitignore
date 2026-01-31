@@ -4,7 +4,10 @@
 # Generated outputs
 detections/
 *.jpg
+
+# Ignore pngs except assets
 *.png
+!assets/*.png
 
 # Logs and temp files
 *.log

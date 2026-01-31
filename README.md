@@ -8,6 +8,9 @@ This project provides edge-based computer vision for maritime surveillance, capa
 
 **Live Demo:** Streams from the Port of Los Angeles EarthCam feed, detecting the USS Iowa, container ships, cranes, and harbor activity in real-time.
 
+![Live Detection Demo](assets/demo-screenshot.png)
+*Real-time detection at Port of Los Angeles - USS Iowa (left) detected as "boat" at 40+ FPS on Intel Arc GPU*
+
 ## Features
 
 - **Real-time Detection**: 38+ FPS on Intel Arc GPU with YOLOv8s
