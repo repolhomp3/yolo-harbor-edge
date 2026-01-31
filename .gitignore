@@ -1,0 +1,21 @@
+# Model weights (download separately)
+*.pt
+
+# Generated outputs
+detections/
+*.jpg
+*.png
+
+# Logs and temp files
+*.log
+*.txt
+!README.txt
+!requirements.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
